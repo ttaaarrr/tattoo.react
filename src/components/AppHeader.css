@@ -1,0 +1,14 @@
+.App-header{
+    border-bottom: 5px solid rgb(241, 70, 99) ;
+    height: 50px;
+    display:  flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .app-header-logo{
+    height: 44px;
+
+    display: flex; /* แสดงเป็น Flexbox */
+    justify-content: center; /* จัดเรียงโลโก้ในแนวนอนตรงกลาง */
+    align-items: center; /* จัดเรียงโลโก้ในแนวตั้งตรงกลาง */
+  }

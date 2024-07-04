@@ -1,0 +1,15 @@
+.tattoo-item {
+  text-align: center;
+  margin: 20px;
+}
+
+.tattoo-item img {
+  width: 500px; /* ปรับขนาดของรูปภาพตามต้องการ */
+  height: auto; /* ให้สูงของรูปภาพปรับขนาดอัตโนมัติตามอัตราส่วน */
+  cursor: pointer; /* เปลี่ยนเคอเซอร์เป็นสัญลักษณ์ของการคลิก */
+}
+
+.tattoo-item h4 {
+  margin-top: 10px;
+  font-size: 18px; /* ปรับขนาดตัวอักษรตามต้องการ */
+}
